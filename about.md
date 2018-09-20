@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am a Sofwtare Engineer using C#
+I am a Software Engineer mainly using C#
 
 
 ### More Information
