@@ -25,9 +25,9 @@ footer-links:
   instagram:
   linkedin: https://www.linkedin.com/in/apostolos-meneklis-45045762/
   pinterest:
-  rss: ApoDev# just type anything here for a working RSS icon
+  rss: ApoDev #just type anything here for a working RSS icon
   twitter: jekyllrb
-  stackoverflow: https://stackoverflow.com/users/1000827/apomene# your stackoverflow profile, 
+  stackoverflow: https://stackoverflow.com/users/1000827/apomene #your stackoverflow profile, 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
