@@ -5,12 +5,17 @@ permalink: /about/
 published: true
 ---
 
-I am a Sowftare Engineer using C# and have depp interest on Machine Learning and Data Science.
+I am a Sowftare Engineer using C#
 
 
 ### More Information
 
-Planning to dive on Python but I always procastanate
+I  have deep interest on Machine Learning and Data Science.
+
+Learning my way through vanilla JS at the moment.
+
+Planning to dive on Python but I always procastanate.
+
 Very font of Azure and also plannig to have a certification as an Azure Developer
 
 
