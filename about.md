@@ -2,14 +2,18 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a Sowftare Engineer using C# and have depp interest on Machine Learning and Data Science.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Planning to dive on Python but I always procastanate
+Very font of Azure and also plannig to have a certification as an Azure Developer
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[apomene@yahoo.gr](mailto:apomene@yahoo.gr)
