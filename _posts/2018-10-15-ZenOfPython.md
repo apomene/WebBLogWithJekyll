@@ -3,7 +3,7 @@ published: false
 ---
 ## The Zen of Python - My First Manifesto
 
-Current post is far but genuine, however ever I just like to reproduce it. Origin: [Zen Of Python](https://www.python.org/dev/peps/pep-0020/ "ZoP")
+Current post is far but genuine, however  I just like to reproduce it. Origin: [Zen Of Python](https://www.python.org/dev/peps/pep-0020/ "ZoP")
 
 1. Beautiful is better than ugly.
 1. Explicit is better than implicit.
