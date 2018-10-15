@@ -1,9 +1,11 @@
 ---
-published: false
+published: true
 ---
 ## The Zen of Python - My First Manifesto
 
-Current post is far but genuine, however  I just like to reproduce it. Origin: [Zen Of Python](https://www.python.org/dev/peps/pep-0020/ "ZoP")
+Current post is far but genuine, however  I just like to reproduce it as my Fisrt Post - Manifesto. 
+
+Origin: [Zen Of Python](https://www.python.org/dev/peps/pep-0020/ "ZoP")
 
 1. Beautiful is better than ugly.
 1. Explicit is better than implicit.
@@ -24,4 +26,3 @@ Current post is far but genuine, however  I just like to reproduce it. Origin: [
 1. If the implementation is hard to explain, it's a bad idea.
 1. If the implementation is easy to explain, it may be a good idea.
 1. Namespaces are one honking great idea -- let's do more of those!
-
