@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## My First Manifesto
+ My First Manifesto
 
 Current post is far but genuine, however  I just like to reproduce it as my Fisrt Post - Manifesto. 
 
