@@ -3,7 +3,7 @@ published: true
 ---
  My First Manifesto
 
-Current post is far but genuine, however  I just like to reproduce it as my Fisrt Post - Manifesto. 
+Current post is by far not genuine, however  I just like to reproduce it as my Fisrt Post - Manifesto. 
 
 Origin: [Zen Of Python](https://www.python.org/dev/peps/pep-0020/ "ZoP")
 
